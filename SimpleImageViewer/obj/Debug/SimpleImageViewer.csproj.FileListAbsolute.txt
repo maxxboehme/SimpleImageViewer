@@ -1,0 +1,17 @@
+c:\users\maxxboehme\documents\visual studio 2015\Projects\SimpleImageViewer\SimpleImageViewer\bin\Debug\SimpleImageViewer.exe.config
+C:\Users\maxxboehme\Documents\Visual Studio 2015\Projects\SimpleImageViewer\SimpleImageViewer\obj\Debug\SimpleImageViewer.csprojResolveAssemblyReference.cache
+C:\Users\maxxboehme\Documents\Visual Studio 2015\Projects\SimpleImageViewer\SimpleImageViewer\obj\Debug\MainWindow.g.cs
+C:\Users\maxxboehme\Documents\Visual Studio 2015\Projects\SimpleImageViewer\SimpleImageViewer\obj\Debug\App.g.cs
+C:\Users\maxxboehme\Documents\Visual Studio 2015\Projects\SimpleImageViewer\SimpleImageViewer\obj\Debug\SimpleImageViewer_MarkupCompile.cache
+C:\Users\maxxboehme\Documents\Visual Studio 2015\Projects\SimpleImageViewer\SimpleImageViewer\obj\Debug\SimpleImageViewer_MarkupCompile.lref
+C:\Users\maxxboehme\Documents\Visual Studio 2015\Projects\SimpleImageViewer\SimpleImageViewer\bin\Debug\SimpleImageViewer.exe
+C:\Users\maxxboehme\Documents\Visual Studio 2015\Projects\SimpleImageViewer\SimpleImageViewer\bin\Debug\SimpleImageViewer.pdb
+C:\Users\maxxboehme\Documents\Visual Studio 2015\Projects\SimpleImageViewer\SimpleImageViewer\obj\Debug\MainWindow.baml
+C:\Users\maxxboehme\Documents\Visual Studio 2015\Projects\SimpleImageViewer\SimpleImageViewer\obj\Debug\SimpleImageViewer.g.resources
+C:\Users\maxxboehme\Documents\Visual Studio 2015\Projects\SimpleImageViewer\SimpleImageViewer\obj\Debug\SimpleImageViewer.Properties.Resources.resources
+C:\Users\maxxboehme\Documents\Visual Studio 2015\Projects\SimpleImageViewer\SimpleImageViewer\obj\Debug\SimpleImageViewer.csproj.GenerateResource.Cache
+C:\Users\maxxboehme\Documents\Visual Studio 2015\Projects\SimpleImageViewer\SimpleImageViewer\obj\Debug\SimpleImageViewer.exe
+C:\Users\maxxboehme\Documents\Visual Studio 2015\Projects\SimpleImageViewer\SimpleImageViewer\obj\Debug\SimpleImageViewer.pdb
+C:\Users\maxxboehme\gittest\SimpleImageViewer\SimpleImageViewer\bin\Debug\SimpleImageViewer.exe.config
+C:\Users\maxxboehme\gittest\SimpleImageViewer\SimpleImageViewer\obj\Debug\SimpleImageViewer.exe
+C:\Users\maxxboehme\gittest\SimpleImageViewer\SimpleImageViewer\obj\Debug\SimpleImageViewer.pdb
